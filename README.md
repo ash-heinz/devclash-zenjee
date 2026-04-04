@@ -1,4 +1,4 @@
-```markdown
+```markdown'''
 # 🚀 ZenJEE - Autonomous AI-Driven JEE Preparation Platform
 
 ZenJEE is a next-generation, AI-powered Learning Management System (LMS) designed for Joint Entrance Examination (JEE) aspirants. Powered by **Google Gemini 2.5 Flash**, it acts as an autonomous tutor that dynamically generates study plans, renders mathematical concepts in LaTeX, and builds custom assessments targeting a student's specific weak areas.
