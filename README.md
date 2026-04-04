@@ -117,7 +117,7 @@ To experience the full capabilities of ZenJEE, please follow these testing steps
 │   ├── App.jsx             # React Router configuration
 │   └── main.jsx            # Entry point
 ├── tailwind.config.js      # Styling configuration
-└── package.json            # Frontend dependencies
+└── package.json            # Frontend dependencies.
 ```
 
 ## 🤝 Known Limitations (MVP)
